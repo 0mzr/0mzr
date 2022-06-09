@@ -6,4 +6,4 @@
 </div>
   
 -->
-<a href="http://www.example.com/" target="_blank" rel="noopener noreferrer">This will open in a new window!</a>
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
