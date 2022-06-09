@@ -1,6 +1,6 @@
 <div>
 <div align="center">
-	<img src="https://imgur.com/a/ZNG8fof"/>
+	<img src="https://i.imgur.com/JcmNIMg.gif"/>
 </div>
 <div align="center">
 	<a href="https://www.youtube.com/channel/UCzXKCmQJmO3D3gCOCD-ticQ/featured" target="_blank" rel="noopener noreferrer">
