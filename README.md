@@ -6,4 +6,7 @@
 </div>
   
 -->
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript">
+    $('a[rel="external"]').attr('target', '_blank');
+</script>
