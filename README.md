@@ -1,7 +1,7 @@
 <div>
 <div align="center">
 	<a href="https://imgur.com/JcmNIMg">
-		<img src="https://i.imgur.com/JcmNIMgs.gif"/>
+		<img src="[Imgur](https://i.imgur.com/JcmNIMgs.gif)"/>
 	</a>
 	
 </div>
