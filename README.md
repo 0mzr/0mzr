@@ -14,5 +14,5 @@
 	</a>
 </div>
 <div align="center">
-	<h3>Hello there</h3>
+	<h2>Hello there</h2>
 </div>
