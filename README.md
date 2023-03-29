@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<a>
-		<img src="https://media2.giphy.com/media/HqviJ4tOO64QVu8wsu/200.gif" width="200"/>
+		<iframe src="https://giphy.com/embed/KA2bY9ovxjgRis1WUp" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pbsnature-love-couple-fish-KA2bY9ovxjgRis1WUp">via GIPHY</a></p>
 	</a>
 </div>
 <div id="links" align="center">
