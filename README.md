@@ -1,7 +1,7 @@
 <div id="header" align="center">
-	<a>
-		<img src="https://media.giphy.com/media/KA2bY9ovxjgRis1WUp/giphy-downsized-large.gif"/>
-	</a>
+		<a>
+			<img src="https://giphy.com/embed/KA2bY9ovxjgRis1WUp"/>
+		</a>
 </div>
 <div id="links" align="center">
     <a href="https://www.youtube.com/channel/UCzXKCmQJmO3D3gCOCD-ticQ">
