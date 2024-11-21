@@ -1,6 +1,6 @@
 <div id="header" align="center">
 		<a>
-			<img src="/resources/fish.gif" width="480" height="480"/>
+			<img src="" width="480" height="480"/>
 		</a>
 </div>
 <div id="links" align="center">
