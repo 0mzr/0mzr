@@ -1,8 +1,8 @@
-<div id="header" align="center">
+<!--<div id="header" align="center">
 		<a>
 			<img src="" width="480" height="480"/>
 		</a>
-</div>
+</div>-->
 <div id="links" align="center">
     <a href="https://www.youtube.com/channel/UCzXKCmQJmO3D3gCOCD-ticQ">
     	<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
