@@ -41,8 +41,8 @@ Roblox games in Luau and working on projects for uni.
 
 ### 💻 Languages
 
-- **C++**: currently learning it alongside my studies at Jagiellonian University.
-- **C#**: my main most used language. I've used it for school coursework and game development using Unity.
+- **C++**: my current focus, which I'm learning alongside my studies at Jagiellonian University.
+- **C#**: my most used language. I've used it for school coursework and game development in Unity.
 - **Luau**: what I use for Roblox, mainly gameplay and combat systems.
 - **Python**: for smaller games and scripts.
 
