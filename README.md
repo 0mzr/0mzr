@@ -47,13 +47,13 @@ Roblox games in Luau and working on projects for uni.
 - **Python**: for smaller games and scripts.
 
 Most of my older work, including school projects and small games, is in my repositories.
-
+<!--
 ### 📊 GitHub stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=0mzr&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0mzr&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</div>
+</div> -->
 
 ---
 
