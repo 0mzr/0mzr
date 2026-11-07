@@ -1,10 +1,10 @@
 <div align="center">
   <img src="resources/fish.gif" width="140" alt="fish" />
 
-  <h1>Hi, I'm Oliver 👋</h1>
+  <h1>Hi, I'm Oliver</h1>
 
   <p>
-     Polish-British developer <img src="https://flagcdn.com/pl.svg" alt="PL" height="14"> <img src="https://flagcdn.com/gb.svg" alt="UK" height="14"> &nbsp;·&nbsp; Student at the Jagiellonian University
+     Polish-British developer <img src="https://flagcdn.com/pl.svg" alt="PL" height="14"> <img src="https://flagcdn.com/gb.svg" alt="UK" height="14"> &nbsp;·&nbsp; Student at the Jagiellonian University (UJ)
   </p>
 
   <a href="https://www.youtube.com/channel/UCzXKCmQJmO3D3gCOCD-ticQ">
@@ -16,7 +16,7 @@
 
 ### About me
 
-I'm a Polish-British developer, natively fluent in English and Polish, currently studying at **UJ**. I've always been curious about how things are built, and programming let me build them myself. Nothing beats the feeling of making something from scratch and watching it work. That curiosity has taken me
+I’m a native speaker of English and Polish, currently studying CS at **UJ**. I've always been curious about how things are built, and programming let me build them myself. Nothing beats the feeling of making something from scratch and watching it work. That curiosity has taken me
 from small C# games to a **VR aim trainer** for my A-Level NEA. These days I split my time between developing Roblox games in Luau and working on projects for uni.
 
 ### Tech I use
@@ -37,7 +37,7 @@ from small C# games to a **VR aim trainer** for my A-Level NEA. These days I spl
 
 ### Languages
 
-- **C++**: my current focus, which I'm learning alongside my studies at Jagiellonian University.
+- **C++**: my current focus, which I'm learning alongside my studies at UJ.
 - **C#**: my most used language. I've used it for school coursework and game development in Unity.
 - **Luau**: what I use for Roblox, mainly gameplay and combat systems.
 - **Python**: for small scripts and data handling.
