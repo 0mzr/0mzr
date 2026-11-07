@@ -4,26 +4,22 @@
   <h1>Hi, I'm Oliver 👋</h1>
 
   <p>
-     Polish-British developer 🇵🇱🇬🇧 &nbsp;·&nbsp; student at Jagiellonian University
+     Polish-British developer <img src="https://flagcdn.com/pl.svg" alt="PL" height="14"> <img src="https://flagcdn.com/gb.svg" alt="UK" height="14"> &nbsp;·&nbsp; Student at the Jagiellonian University
   </p>
 
   <a href="https://www.youtube.com/channel/UCzXKCmQJmO3D3gCOCD-ticQ">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=0mzr&abbreviated=true&style=for-the-badge&color=red" alt="Profile views" />
 </div>
 
 ---
 
-### 👤 About me
+### About me
 
-I'm a Polish-British developer, fluent in English and Polish, currently studying at **Jagiellonian University**
-in Kraków. I've always been curious about how things are built, and programming let me build them myself.
-Nothing beats the feeling of making something from scratch and watching it work. That curiosity has taken me
-from small C# games to a **VR aim trainer** for my A-Level NEA. These days I split my time between developing
-Roblox games in Luau and working on projects for uni.
+I'm a Polish-British developer, natively fluent in English and Polish, currently studying at **UJ**. I've always been curious about how things are built, and programming let me build them myself. Nothing beats the feeling of making something from scratch and watching it work. That curiosity has taken me
+from small C# games to a **VR aim trainer** for my A-Level NEA. These days I split my time between developing Roblox games in Luau and working on projects for uni.
 
-### 🛠️ Tech I use
+### Tech I use
 
 <p>
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white" alt="Luau" />
@@ -39,12 +35,12 @@ Roblox games in Luau and working on projects for uni.
   <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white" alt="Rider" />
 </p>
 
-### 💻 Languages
+### Languages
 
 - **C++**: my current focus, which I'm learning alongside my studies at Jagiellonian University.
 - **C#**: my most used language. I've used it for school coursework and game development in Unity.
 - **Luau**: what I use for Roblox, mainly gameplay and combat systems.
-- **Python**: mainly for small scripts and data handling.
+- **Python**: for small scripts and data handling.
 
 Most of my older work, including school projects and small games, is in my repositories.
 <!--
@@ -58,5 +54,5 @@ Most of my older work, including school projects and small games, is in my repos
 ---
 
 <div align="center">
-  📫 Got a question or a project in mind? Email me.
+  Got a question or a project in mind? Email me.
 </div>
